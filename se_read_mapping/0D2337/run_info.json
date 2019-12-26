@@ -1,0 +1,9 @@
+{
+	"n_targets": 21965,
+	"n_bootstraps": 100,
+	"n_processed": 26641145,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 30 17:25:36 2019",
+	"call": "kallisto quant -i /Volumes//NeverLand/embryosome/Kalifish/V6_x.idx -o /Volumes/NeverLand/single_embryosome/mapping/D2337 -b 100 /Volumes/NeverLand/single_embryosome/sequence/trimmed/D23-37-GGACTCCT-ATAGAGAG_S33_R1_001_val_1.fq /Volumes/NeverLand/single_embryosome/sequence/trimmed/D23-37-GGACTCCT-ATAGAGAG_S33_R2_001_val_2.fq"
+}

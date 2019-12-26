@@ -1,0 +1,16 @@
+sample	condition	state	Lib	folder
+A_PreD_Lib1	0PreD	Embryogenesis	Lib1	01
+B_PreD_Lib2	0PreD	Embryogenesis	Lib2	02
+C_PreD_Lib3	0PreD	Embryogenesis	Lib3	03
+D_NonD_Lib1	NonD	Embryogenesis	Lib21	04
+E_NonD_Lib2	NonD	Embryogenesis	Lib22	05
+F_NonD_Lib3	NonD	Embryogenesis	Lib23	06
+H_D1m_Lib1	D1m	Diapause 	Lib26	08
+I_D1m_Lib2	D1m	Diapause 	Lib19	09
+J_D1m_Lib3	D1m	Diapause 	Lib18	10
+K_D6d_Lib1	D6d	Diapause 	Lib16	11
+L_D6d_Lib2	D6d	Diapause 	Lib15	12
+M_D6d_Lib3	D6d	Diapause 	Lib14	13
+N_D3d_Lib1	D3d	Diapause 	Lib24	14
+O_D3d_Lib2	D3d	Diapause 	Lib12	15
+P_D3d_Lib3	D3d	Diapause 	Lib11	16

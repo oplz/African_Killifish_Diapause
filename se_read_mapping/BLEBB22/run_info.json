@@ -1,0 +1,9 @@
+{
+	"n_targets": 21965,
+	"n_bootstraps": 100,
+	"n_processed": 21872148,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 30 16:26:30 2019",
+	"call": "kallisto quant -i /Volumes//NeverLand/embryosome/Kalifish/V6_x.idx -o /Volumes/NeverLand/single_embryosome/mapping/BLEBB22 -b 100 /Volumes/NeverLand/single_embryosome/sequence/trimmed/BLEBB-22-AGGCAGAA-AGAGGATA_S18_R1_001_val_1.fq /Volumes/NeverLand/single_embryosome/sequence/trimmed/BLEBB-22-AGGCAGAA-AGAGGATA_S18_R2_001_val_2.fq"
+}

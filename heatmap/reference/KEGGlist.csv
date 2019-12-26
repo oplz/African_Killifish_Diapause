@@ -1,0 +1,309 @@
+KEGGID,Term
+04974,Protein digestion and absorption
+05322,Systemic lupus erythematosus
+04110,Cell cycle
+04512,ECM-receptor interaction
+03030,DNA replication
+03430,Mismatch repair
+05034,Alcoholism
+03410,Base excision repair
+03440,Homologous recombination
+03050,Proteasome
+03460,Fanconi anemia pathway
+04950,Maturity onset diabetes of the young
+04510,Focal adhesion
+03420,Nucleotide excision repair
+04640,Hematopoietic cell lineage
+03040,Spliceosome
+04115,p53 signaling pathway
+04614,Renin-angiotensin system
+04151,PI3K-Akt signaling pathway
+00480,Glutathione metabolism
+05166,HTLV-I infection
+01212,Fatty acid metabolism
+04114,Oocyte meiosis
+00240,Pyrimidine metabolism
+05200,Pathways in cancer
+00061,Fatty acid biosynthesis
+05224,Breast cancer
+00740,Riboflavin metabolism
+05202,Transcriptional misregulation in cancer
+05144,Malaria
+05218,Melanoma
+04514,Cell adhesion molecules (CAMs)
+00970,Aminoacyl-tRNA biosynthesis
+05203,Viral carcinogenesis
+05217,Basal cell carcinoma
+00900,Terpenoid backbone biosynthesis
+04360,Axon guidance
+00450,Selenocompound metabolism
+03450,Non-homologous end-joining
+04215,Apoptosis - multiple species
+05014,Amyotrophic lateral sclerosis (ALS)
+00071,Fatty acid degradation
+00020,Citrate cycle (TCA cycle)
+01524,Platinum drug resistanc
+00563,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+03060,Protein export
+03320,PPAR signaling pathway
+05222,Small cell lung cancer
+04612,Antigen processing and presentation
+00785,Lipoic acid metabolism
+04330,Notch signaling pathway
+05210,Colorectal cancer
+04145,Phagosome
+00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+04964,Proximal tubule bicarbonate reclamation
+00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+04744,Phototransduction
+00330,Arginine and proline metabolism
+04014,Ras signaling pathway
+00604,Glycosphingolipid biosynthesis - ganglio series
+00750,Vitamin B6 metabolism
+00380,Tryptophan metabolism
+00531,Glycosaminoglycan degradation
+04916,Melanogenesis
+05206,MicroRNAs in cancer
+04914,Progesterone-mediated oocyte maturation
+04672,Intestinal immune network for IgA production
+00650,Butanoate metabolism
+00260,Glycine
+00520,Amino sugar and nucleotide sugar metabolism
+00670,One carbon pool by folate
+00440,Phosphonate and phosphinate metabolism
+00514,Other types of O-glycan biosynthesis
+00592,alpha-Linolenic acid metabolism
+04015,Rap1 signaling pathway
+01200,Carbon metabolism
+00340,Histidine metabolism
+05033,Nicotine addiction
+00511,Other glycan degradation
+00280,Valine
+05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+05133,Pertussis
+04973,Carbohydrate digestion and absorption
+00062,Fatty acid elongation
+00512,Mucin type O-Glycan biosynthesis
+00040,Pentose and glucuronate interconversions
+01230,Biosynthesis of amino acids
+00430,Taurine and hypotaurine metabolism
+04742,Taste transduction
+05020,Prion diseases
+04350,TGF-beta signaling pathway
+01210,2-Oxocarboxylic acid metabolism
+00830,Retinol metabolism
+00790,Folate biosynthesis
+00640,Propanoate metabolism
+00920,Sulfur metabolism
+00730,Thiamine metabolism
+04930,Type II diabetes mellitus
+04320,Dorso-ventral axis formation
+00072,Synthesis and degradation of ketone bodies
+04933,AGE-RAGE signaling pathway in diabetic complications
+00052,Galactose metabolism
+00053,Ascorbate and aldarate metabolism
+04978,Mineral absorption
+04310,Wnt signaling pathway
+01100,Metabolic pathways
+00010,Glycolysis / Gluconeogenesis
+05340,Primary immunodeficiency
+00603,Glycosphingolipid biosynthesis - globo series
+00515,Mannose type O-glycan biosynthesis
+04975,Fat digestion and absorption
+05146,Amoebiasis
+01040,Biosynthesis of unsaturated fatty acids
+04960,Aldosterone-regulated sodium reabsorption
+04210,Apoptosis
+04810,Regulation of actin cytoskeleton
+05168,Herpes simplex infection
+04024,cAMP signaling pathway
+00565,Ether lipid metabolism
+05130,Pathogenic Escherichia coli infection
+04961,Endocrine and other factor-regulated calcium reabsorption
+03018,RNA degradation
+04976,Bile secretion
+04390,Hippo signaling pathway
+00983,Drug metabolism - other enzymes
+00760,Nicotinate and nicotinamide metabolism
+05214,Glioma
+04940,Type I diabetes mellitus
+00620,Pyruvate metabolism
+00500,Starch and sucrose metabolism
+05219,Bladder cancer
+01522,Endocrine resistance
+05323,Rheumatoid arthritis
+00410,beta-Alanine metabolism
+04392,Hippo signaling pathway - multiple species
+05161,Hepatitis B
+04670,Leukocyte transendothelial migration
+04060,Cytokine-cytokine receptor interaction
+05416,Viral myocarditis
+05215,Prostate cancer
+00910,Nitrogen metabolism
+01523,Antifolate resistance
+00270,Cysteine and methionine metabolism
+02010,ABC transporters
+04260,Cardiac muscle contraction
+04141,Protein processing in endoplasmic reticulum
+00250,Alanine
+05031,Amphetamine addiction
+04918,Thyroid hormone synthesis
+00350,Tyrosine metabolism
+00510,N-Glycan biosynthesis
+00220,Arginine biosynthesis
+04657,IL-17 signaling pathway
+00630,Glyoxylate and dicarboxylate metabolism
+05205,Proteoglycans in cancer
+04723,Retrograde endocannabinoid signaling
+04972,Pancreatic secretion
+04146,Peroxisome
+05211,Renal cell carcinoma
+00130,Ubiquinone and other terpenoid-quinone biosynthesis
+05410,Hypertrophic cardiomyopathy (HCM)
+05134,Legionellosis
+03013,RNA transport
+04610,Complement and coagulation cascades
+00590,Arachidonic acid metabolism
+00860,Porphyrin and chlorophyll metabolism
+00140,Steroid hormone biosynthesis
+05150,Staphylococcus aureus infection
+04740,Olfactory transduction
+03022,Basal transcription factors
+05100,Bacterial invasion of epithelial cells
+04977,Vitamin digestion and absorption
+04971,Gastric acid secretion
+04120,Ubiquitin mediated proteolysis
+04540,Gap junction
+05010,Alzheimer's disease
+00230,Purine metabolism
+04727,GABAergic synapse
+03015,mRNA surveillance pathway
+00051,Fructose and mannose metabolism
+00770,Pantothenate and CoA biosynthesis
+04068,FoxO signaling pathway
+00561,Glycerolipid metabolism
+00310,Lysine degradation
+00601,Glycosphingolipid biosynthesis - lacto and neolacto series
+04658,Th1 and Th2 cell differentiation
+05212,Pancreatic cancer
+05169,Epstein-Barr virus infection
+04550,Signaling pathways regulating pluripotency of stem cells
+04721,Synaptic vesicle cycle
+04911,Insulin secretion
+04924,Renin secretion
+05145,Toxoplasmosis
+00982,Drug metabolism - cytochrome P450
+05016,Huntington's disease
+04080,Neuroactive ligand-receptor interaction
+05132,Salmonella infection
+04066,HIF-1 signaling pathway
+00030,Pentose phosphate pathway
+05414,Dilated cardiomyopathy
+04724,Glutamatergic synapse
+04922,Glucagon signaling pathway
+04620,Toll-like receptor signaling pathway
+04925,Aldosterone synthesis and secretion
+00533,Glycosaminoglycan biosynthesis - keratan sulfate
+00100,Steroid biosynthesis
+01521,EGFR tyrosine kinase inhibitor resistance
+05140,Leishmaniasis
+05418,Fluid shear stress and atherosclerosis
+05213,Endometrial cancer
+04728,Dopaminergic synapse
+04913,Ovarian steroidogenesis
+04970,Salivary secretion
+05142,Chagas disease (American trypanosomiasis)
+04962,Vasopressin-regulated water reabsorption
+04750,Inflammatory mediator regulation of TRP channels
+05321,Inflammatory bowel disease (IBD)
+05216,Thyroid cancer
+04666,Fc gamma R-mediated phagocytosis
+05230,Central carbon metabolism in cancer
+05231,Choline metabolism in cancer
+05012,Parkinson's disease
+04622,RIG-I-like receptor signaling pathway
+00600,Sphingolipid metabolism
+05152,Tuberculosis
+05204,Chemical carcinogenesis
+05131,Shigellosis
+04530,Tight junction
+04668,TNF signaling pathway
+04664,Fc epsilon RI signaling pathway
+05223,Non-small cell lung cancer
+04722,Neurotrophin signaling pathway
+04150,mTOR signaling pathway
+00980,Metabolism of xenobiotics by cytochrome P450
+04725,Cholinergic synapse
+04340,Hedgehog signaling pathway
+04520,Adherens junction
+04142,Lysosome
+04720,Long-term potentiation
+04919,Thyroid hormone signaling pathway
+05220,Chronic myeloid leukemia
+04912,GnRH signaling pathway
+04917,Prolactin signaling pathway
+00564,Glycerophospholipid metabolism
+05032,Morphine addiction
+04726,Serotonergic synapse
+04662,B cell receptor signaling pathway
+04931,Insulin resistance
+04713,Circadian entrainment
+05110,Vibrio cholerae infection
+05221,Acute myeloid leukemia
+04062,Chemokine signaling pathway
+04650,Natural killer cell mediated cytotoxicity
+04910,Insulin signaling pathway
+04623,Cytosolic DNA-sensing pathway
+04370,VEGF signaling pathway
+04621,NOD-like receptor signaling pathway
+04270,Vascular smooth muscle contraction
+03020,RNA polymerase
+04923,Regulation of lipolysis in adipocytes
+04010,MAPK signaling pathway
+04261,Adrenergic signaling in cardiomyocytes
+00562,Inositol phosphate metabolism
+04213,Longevity regulating pathway - multiple species
+04012,ErbB signaling pathway
+00190,Oxidative phosphorylation
+05030,Cocaine addiction
+04064,NF-kappa B signaling pathway
+05160,Hepatitis C
+05164,Influenza A
+04022,cGMP-PKG signaling pathway
+04380,Osteoclast differentiation
+04152,AMPK signaling pathway
+04915,Estrogen signaling pathway
+04371,Apelin signaling pathway
+04611,Platelet activation
+04920,Adipocytokine signaling pathway
+04072,Phospholipase D signaling pathway
+04070,Phosphatidylinositol signaling system
+03008,Ribosome biogenesis in eukaryotes
+04020,Calcium signaling pathway
+04932,Non-alcoholic fatty liver disease (NAFLD)
+04130,SNARE interactions in vesicular transport
+05120,Epithelial cell signaling in Helicobacter pylori infection
+04660,T cell receptor signaling pathway
+05162,Measles
+04921,Oxytocin signaling pathway
+04730,Long-term depression
+04211,Longevity regulating pathway
+04071,Sphingolipid signaling pathway
+04710,Circadian rhythm
+04630,Jak-STAT signaling pathway
+04144,Endocytosis
+04140,Regulation of autophagy
+04137,Mitophagy - animal
+04659,Th17 cell differentiation
+03010,Ribosome
+00400,Phenylalanine
+00360,Phenylalanine metabolism
+04122,Sulfur relay system
+00591,Linoleic acid metabolism
+04966,Collecting duct acid secretion
+00232,Caffeine metabolism
+05320,Autoimmune thyroid disease
+05330,Allograft rejection
+05310,Asthma
+05143,African trypanosomiasis
+00120,Primary bile acid biosynthesis

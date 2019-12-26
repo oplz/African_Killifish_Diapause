@@ -1,0 +1,9 @@
+{
+	"n_targets": 21965,
+	"n_bootstraps": 100,
+	"n_processed": 28169860,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 30 14:06:21 2019",
+	"call": "kallisto quant -i /Volumes/NeverLand/embryosome/kalifish/V6_x.idx -o /Volumes/NeverLand/embryosome/kallisto_mapping/09 --fr-stranded -b 100 /Volumes/NeverLand/embryosome/Lib19/Lib19-TAGCTT_S10_R1_001_val_1.fq /Volumes/NeverLand/embryosome/Lib19/Lib19-TAGCTT_S10_R2_001_val_2.fq"
+}

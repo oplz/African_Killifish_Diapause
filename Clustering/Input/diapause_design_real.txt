@@ -1,0 +1,16 @@
+sampleid	timepoint	group
+s1	preD	1
+s2	preD	1
+s3	preD	1
+s4	Dd3	2
+s5	Dd3	2
+s6	Dd3	2
+s7	Dd6	3
+s8	Dd6	3
+s9	Dd6	3
+s10	Dd30	4
+s11	Dd30	4
+s12	Dd30	4
+s13	NonD	5
+s14	NonD	5
+s15	NonD	5
